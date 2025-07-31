@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Naufal 👋
 
-<!--
-**nauxbyte/nauxbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="120" alt="Avatar"/>
 
-Here are some ideas to get you started:
+## About Me
+I'm a passionate developer focused on building beautiful and performant apps with Flutter.  
+Currently at junior level, eager to learn and grow!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+<table>
+  <tr>
+    <th>Technology</th>
+    <th>Level</th>
+  </tr>
+  <tr>
+    <td>Flutter</td>
+    <td>Junior</td>
+  </tr>
+</table>
+
+### GitHub Stats
+![nauxbyte's GitHub stats](https://github-readme-stats.vercel.app/api?username=nauxbyte&show_icons=true&theme=radical)
+
+### Connect with me
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/nauxbyte)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/naufalrifky)  
+
+### Flutter Demo GIF
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300" alt="Flutter demo" />
+
